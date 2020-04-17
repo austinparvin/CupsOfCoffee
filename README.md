@@ -1,25 +1,19 @@
-# Default Template for SDG .NET Course
+# Cups Of Coffee
 
-This is the default template for a simple .NET Core console app. This template has:
+A console app that displays the daily amout of cups of coffee a user has drank and the date. This project has:
 
-- github integration
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
-## To push to github
+## Objectives
 
-To create and push your current code to github, use the task `create-github`.
+1. Save data to variables and display them in the console
+![](http://g.recordit.co/ZKMBJwXNUs.gif)
 
-How?
+2. Retrive user input
+![](http://g.recordit.co/9XXktVk3pK.gif)
 
-1. Open your command pallette by using (Mac) `shift + cmd + p` or (Windows) `shift + ctrl + p`
-2. Search and Select `Tasks: Run Task`
-3. Select `create-github` from the dropdown
+3. Intorduce if/else logic dependent on users name input
+![](http://g.recordit.co/qoooqqIAot.gif)
 
-This will create a new github repo, locally and up on github and also push your current code.
-
-## To turn in your assignment:
-
-after you have created a github repo, completed your project and pushed your code, follow these instructions: https://suncoast.io/handbook/tools/assignment-turn-in/
-
-## PROTIP:
-
-When you are complete with the project and have turned it in to your instructor, update this read me with details about the assignment.
+4. Perform basic arithmatic and print results to console
+![](http://g.recordit.co/g0E3FXx936.gif)
